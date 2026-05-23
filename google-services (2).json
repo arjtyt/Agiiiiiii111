@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727277233264",
+    "firebase_url": "https://agi-bd7a5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agi-bd7a5",
+    "storage_bucket": "agi-bd7a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727277233264:android:be517ffad81df105a380b5",
+        "android_client_info": {
+          "package_name": "com.gamex.gaming_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727277233264-ibbdc0n92fj0qr5im21n7f04a4akq2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2b2HJIgj01ue5qrErWvlBftsDmd_VD3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727277233264-ibbdc0n92fj0qr5im21n7f04a4akq2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
